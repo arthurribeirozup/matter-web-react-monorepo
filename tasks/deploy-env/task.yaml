@@ -1,0 +1,17 @@
+name: deploy-env
+description: Create aws environment
+supported-os:
+  - windows
+  - linux
+  - mac
+requirements-check:
+  npm:
+    check-command: npm --version
+    info: npm is not installed
+  deploy-plugin:
+    check-command: ls infra
+    info: deploy plugin was not applied
+command:
+  windows: cmd /c infra\deploy.bat ${stage}
+  linux: sh ./infra/deploy.sh ${stage}
+  mac: sh ./infra/deploy.sh ${stage}
