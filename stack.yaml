@@ -8,6 +8,10 @@ picture: "react.png"
 
 category: Frontend
 
+compatibility:
+  - webpack5
+  - react17
+
 about: about.md
 
 useCases:
