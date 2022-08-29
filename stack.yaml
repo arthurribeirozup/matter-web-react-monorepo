@@ -2,15 +2,9 @@ description: Inicialize aplicações web react preparadas para ambientes microfr
 
 name: matter-web-react
 
-displayName: Stack Web React
-
 picture: "react.png"
 
 category: Frontend
-
-compatibility:
-  - webpack 5
-  - react 17
 
 about: about.md
 
