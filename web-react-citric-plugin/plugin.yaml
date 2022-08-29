@@ -19,11 +19,11 @@ picture: "logo.png"
 
 # Especificar a categoria da stack.
 # Plugin podem perceber a qualquer category
-category: frontend, design-system
+category: Frontend
 
 ## Lista de tecnologias que você gostaria de enfatizar que é compativel
 compatibility:
-  - reactjs
+  - Typescript
 
 # Especificar um arquivo .md que explique o about do template
 # por padrão o valor é about.md

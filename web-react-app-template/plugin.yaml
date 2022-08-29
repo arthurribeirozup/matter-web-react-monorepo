@@ -26,11 +26,11 @@ picture: "logo.png"
 # Especificar a categoria da stack.
 # Categorias disponíveis:
 # [sre, frontend, backend, fullStack, analytics]
-category: frontend
+category: Frontend
 
 # Lista de tecnologias que você gostaria de enfatizar que é compatível
 compatibility:
-  - react
+  - Typescript
 
 # Especificar um arquivo .md que explique o about do template
 # por padrão o valor é about.md
