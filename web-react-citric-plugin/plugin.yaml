@@ -10,7 +10,7 @@ tags:
   - "orange-stackfront-web-citric-plugin"
 
 # Nome com formatação livre que será exibido no portal.
-displayName: Citric
+display-name: Citric
 
 # caso a picture esteja fora do repo colocar uma url externa
 # Categorias disponíveis:
@@ -40,4 +40,4 @@ implementation: implementation.md
 
 # tecnologies que o plugin utiliza
 # A lista completa das tecnologias que podem ser cadastradas estão disponiveis na Documentação
-technologies: [ "ReactJS", "NextJS" ]
+technologies: ["Typescript"]

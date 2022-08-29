@@ -18,7 +18,7 @@ inputs:
     default: true
 
 # Nome com formatação livre que será exibido no portal.
-displayName: React App Template
+display-name: React App Template
 
 # caso a picture esteja fora do repo colocar uma url externa
 # caso a picture esteja no repo fornecer o path
@@ -30,7 +30,7 @@ category: frontend
 
 # Lista de tecnologias que você gostaria de enfatizar que é compatível
 compatibility:
-  - React
+  - react
 
 # Especificar um arquivo .md que explique o about do template
 # por padrão o valor é about.md
@@ -47,4 +47,4 @@ implementation: implementation.md
 
 # tecnologies que o template utiliza
 # A lista completa das tecnologias que podem ser cadastradas estão disponiveis na Documentação
-technologies: ["ReactJS"]
+technologies: ["Typescript"]

@@ -12,7 +12,7 @@ inputs:
     default: http://localhost:8080
 
 # Nome com formatação livre que será exibido no portal.
-displayName: Beagle
+display-name: Beagle
 
 # caso a picture esteja fora do repo colocar uma url externa
 # Categorias disponíveis:
@@ -42,5 +42,4 @@ implementation: implementation.md
 
 # tecnologies que o plugin utiliza
 # A lista completa das tecnologias que podem ser cadastradas estão disponiveis na Documentação
-technologies: [ "ReactJS", "NextJS" ]
-
+technologies: ["Typescript"]
