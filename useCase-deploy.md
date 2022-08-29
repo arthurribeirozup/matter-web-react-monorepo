@@ -65,7 +65,7 @@ Ps: Você pode criar vários arquivos para criar a infra em diferentes ambientes
 Com o arquivo de stages criado, no diretório do projeto, crie os recursos na sua conta AWS com o seguinte comando:
 
 ```bash
-stk deploy <stage_name>
+stk run deploy-env <stage_name>
 ```
 
 Faça o commit e dê o push do seu código para o github. Após fazer o merge de suas alterações, gere uma release no github com o formato `<stage_name>-v0.0.0`.
