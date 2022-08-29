@@ -2,6 +2,8 @@ description: Inicialize aplicações web react preparadas para ambientes microfr
 
 name: matter-web-react
 
+display-name: Stack Web React
+
 picture: "react.png"
 
 category: Frontend
