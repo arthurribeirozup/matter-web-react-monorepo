@@ -49,7 +49,7 @@ stk apply plugin web-react-deploy
 Create the resources in your aws environment
 
 ```bash
-stk deploy <stage>
+stk run deploy-env <stage>
 ```
 
 Commit and push your code.
